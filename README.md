@@ -1,6 +1,5 @@
 | Northeastern university |
-| --- |
-|
+
 ## Frequently Asked Questions
  |
 | A compilation of all the frequently asked questions regarding MS – Cyber Security Program |
